@@ -1,18 +1,28 @@
 {
   "expo": {
-    "name": "Goal Reward Tracker",
+    "name": "GoalRewardTracker",
     "slug": "goal-reward-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/prime-logo.png",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/prime-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
-      "package": "com.primeedge.goalrewardtracker",
-      "versionCode": 1
+      "package": "com.yourname.goalrewardtracker"
+    },
+    "web": {
+      "favicon": "./assets/prime-logo.png"
     }
   }
 }
