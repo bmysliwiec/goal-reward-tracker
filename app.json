@@ -19,7 +19,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.bmysliwiec.goalrewardtracker"
+      "package": "com.primeedgefitness.goalrewardtracker"
     },
     "web": {
       "favicon": "./assets/prime-logo.png"
