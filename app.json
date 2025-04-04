@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "GoalRewardTracker",
+    "name": "Goal Reward Tracker",
     "slug": "goal-reward-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,6 +23,9 @@
     },
     "web": {
       "favicon": "./assets/prime-logo.png"
-    }
+    },
+        "extra": {
+      "eas": {
+        "projectId": "bmysliwiec/goal-reward-tracker"
   }
 }
