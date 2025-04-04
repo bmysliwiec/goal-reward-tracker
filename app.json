@@ -24,8 +24,11 @@
     "web": {
       "favicon": "./assets/prime-logo.png"
     },
-        "extra": {
+    "extra": {
       "eas": {
         "projectId": "bmysliwiec/goal-reward-tracker"
+      }
+    }
   }
 }
+
