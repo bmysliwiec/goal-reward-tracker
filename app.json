@@ -1,8 +1,12 @@
 {
+  "cli": {
+    "appVersionSource": "local"
+  },
   "expo": {
     "name": "Goal Reward Tracker",
     "slug": "goal-reward-tracker",
     "version": "1.0.0",
+    "owner": "bmysliwiec",
     "orientation": "portrait",
     "icon": "./assets/prime-logo.png",
     "userInterfaceStyle": "automatic",
@@ -31,4 +35,5 @@
     }
   }
 }
+
 
