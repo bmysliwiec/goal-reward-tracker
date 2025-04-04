@@ -1,8 +1,13 @@
 {
   "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
     "production": {
       "android": {
-        "workflow": "managed"
+        "buildType": "app-bundle"
       }
     }
   }
